@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Quantum Bluestein Benchmark Extensions"
+message: "If you use this code, please cite the associated Quantum Bluestein paper and the original quantum-bluestein repository."
+type: software
+authors:
+  - family-names: Kuo
+    given-names: Nan-Hong
+  - family-names: Wong
+    given-names: Renata
+repository-code: "https://github.com/YOUR_USERNAME/quantum-bluestein-benchmarks"
+license: MIT
+version: "0.1.0"
+date-released: "2026-05-12"
+references:
+  - type: software
+    title: "quantum-bluestein"
+    authors:
+      - family-names: Wong
+        given-names: Renata
+    repository-code: "https://github.com/renatawong/quantum-bluestein"
